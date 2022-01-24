@@ -19,8 +19,8 @@ I am also a big hockey, skiing, and hiking fan!
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![java]
-![SQL]
+![java](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=f89820)
+![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=microsoft-sql-server&logoColor=F7DF1E)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Front-End Development
