@@ -6,7 +6,7 @@
 
 👨‍💻 I enjoy pushing myself outside my comfort zone to learn new things. In 2021 I learned a lot about **A/B Testing**, **Experiment Design and Analysis**, **Leading and Setting Team Direction**, and **Project Management**. Instagram published the shop tab in 2020 shortly after I joined the company. I have been working to scale up the tab and find product market fit through the use of notifications and editorial content ever since.
 
-🎸 Outside of tech, I enjoy hanging out with my wife and 1 year-old son and boucing from hobby to hobby. Currently I am starting to write more and I am trying to get a grasp on electronics as it's the only hobby I can find that I like and that fits in a small apartment. In the past I have dabbled in woodworking going as far as to make a sub-par kitchen table for our house (my wife let us keep it for a year probably out of pity before ordering a nicer one).
+⛷ Outside of tech, I enjoy hanging out with my wife and 1 year-old son and boucing from hobby to hobby. Currently I am starting to write more and I am trying to get a grasp on electronics as it's the only hobby I can find that I like and that fits in a small apartment. In the past I have dabbled in woodworking going as far as to make a sub-par kitchen table for our house (my wife let us keep it for a year probably out of pity before ordering a nicer one).
 I am also a big hockey, skiing, and hiking fan!
 
 📚 I also love reading books for enjoyment and personal development. Recently I've read _A Promised Land - Barack Obama_, _Sapiens - Yuval Noah Harari_, and _Staff Engineering - Will Larson_ all of which I'm a fan of.
