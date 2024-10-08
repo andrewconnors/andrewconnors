@@ -2,16 +2,16 @@
 
 ## 🚀 About Me
 
-🎓 My name is Andrew Connors. I am a **Backend Engineer** who has dabbled in frontend work in the past. You can currently find me at Meta working to scale neural interfaces from research to production. Previous to that, I was at instagram helping to build out their shopping ecosystem and in the past I've worked at multiple startups and I wore many hats. I thrive when there are complex problems to solve and love a good software design :)
+🎓 My name is Andrew Connors. I am a **Backend Engineer** who has dabbled in frontend work in the past. You can currently find me at TrojAI working on AI Security. Prior to that, I was at Meta working to scale neural interfaces from research to production. I also spent time on the Instagram team helping to build out their shopping ecosystem and I've worked at multiple startups where I wore many hats. I thrive when there are complex problems to solve and love a good software design :)
 
-👨‍💻 I enjoy pushing myself outside my comfort zone to learn new things. In 2022 I spent time growing skills as a Tech Lead by advocating for and architecting a migration from our legacy curation system, and leading + mentoring engineers on the team in a couple big-bet projects. I also challenged myself to learn C++ in order to switch teams and start working on the new to me area of input systems in VR/AR.
+👨‍💻 I enjoy pushing myself outside my comfort zone to learn new things. I've spent time recently growing skills as a Tech Lead by advocating for and architecting a migration from our legacy curation system, and leading + mentoring engineers on the team in a couple big-bet projects. I also challenged myself to learn C++ in order to switch teams and start working on the new to me area of input systems in VR/AR.
 
-In 2021 I learned a lot about **A/B Testing**, **Experiment Design and Analysis**, **Leading and Setting Team Direction**, and **Project Management**. Instagram published the shop tab in 2020 shortly after I joined the company. I worked to scale up the tab and find product market fit through the use of notifications and editorial content ever since.
+In recent years I learned a lot about **Leading a Team of Developers**, **A/B Testing**, **Experiment Design and Analysis**, and **Project Management**.
 
-⛷ Outside of tech, I enjoy hanging out with my wife and 2 year-old son and boucing from hobby to hobby. Currently I am trying to get a grasp on electronics as it's the only hobby I can find that I like and that fits in a small apartment. In the past I have dabbled in woodworking going as far as to make a sub-par kitchen table for our house (my wife let us keep it for a year probably out of pity before ordering a nicer one).
+⛷ Outside of tech, I enjoy hanging out with my wife, 3 year-old son, and 1 year-old daughter and boucing from hobby to hobby. Currently I am trying to get a grasp on wodworking to have an outlet outside coding. I also enjoy running, I started in 2021 and have since run 2 marathons and 5 official half marathons!
 I am also a big hockey, skiing, and hiking fan!
 
-📚 I also love reading books for enjoyment and personal development. Recent books I'm a fan of include _Stories of your life and others - Ted Chiang_, _Snow Crash - Neal Stephenson_, _A Promised Land - Barack Obama_, _Sapiens - Yuval Noah Harari_, and _Staff Engineering - Will Larson_
+📚 I also love reading books for enjoyment and personal development. Recent books I'm a fan of include _The red rising series - Pierce Brown_,  _Stories of your life and others - Ted Chiang_, _Snow Crash - Neal Stephenson_, _A Promised Land - Barack Obama_, _Sapiens - Yuval Noah Harari_, and _Staff Engineering - Will Larson_
 
 ✈️ My wife and I are big travellers having done an extended 6-month stay in Norway, travelling Europe, and most recently moving from Canada to NYC!
 
