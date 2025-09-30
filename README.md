@@ -34,31 +34,6 @@ I am also a big hockey, skiing, and hiking fan!
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend as a Service (BaaS)
-
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-### Testing
-
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📝 Blog
-
-- [In Progress!](https://blog.andrewconnors.com) Really, nothing there yet but bookmark it if you want some sweet, sweet insights in the future.
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=andrewconnors&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=andrewconnors&show_icons=true&hide_border=true" alt="Andrew Connors' GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=andrewconnors.andrewconnors" alt="visitors">
-</div>
 
 ## 🔗 Links
 
